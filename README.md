@@ -3,6 +3,7 @@
 This repository contains coursework which trains a RL agent to navigate randomly generated mazes.
 
 Files _train_and_test_ and _random_environment_ have been provided. The _random_environment_ file generates mazes and the _train_and_test_ file trains the agent on one of such randomly generated mazes for 10 minutes and evaluates its performance.
+
 The _agent_ file has the following methods implemented:
 *   Double Q learning
 *   Decaying epsilon-greedy policy
